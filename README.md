@@ -1,8 +1,22 @@
-<!-- # Sprinternship2026-Git-DevOps -->
+# Sprinternship2026-Git-DevOps
 
-# Sprinternship Git Collaboration Activity
+# Repo Owner
+## Steps
+1. Download these files as a zip
+2. Create your own repo
+3. Create Branch Protections for this repo
+4. Add the following rules:
+- Create the rule main
+- Target the main branch only
+- Restrict Deletions
+- Require a pull request before merging
+- Block force pushes
+5. Add collaorators
 
-## Goal
+
+# Collaborators
+
+## Goal 
 Add your name to the contributors list using:
 
 - Branches
